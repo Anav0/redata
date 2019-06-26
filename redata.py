@@ -1,5 +1,4 @@
 import json
-import ijson
 from datetime import datetime
 from pymongo import MongoClient
 import click
